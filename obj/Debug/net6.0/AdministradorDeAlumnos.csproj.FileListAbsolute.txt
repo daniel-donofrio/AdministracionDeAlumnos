@@ -1,0 +1,15 @@
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\bin\Debug\net6.0\AdministradorDeAlumnos.exe
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\bin\Debug\net6.0\AdministradorDeAlumnos.deps.json
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\bin\Debug\net6.0\AdministradorDeAlumnos.runtimeconfig.json
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\bin\Debug\net6.0\AdministradorDeAlumnos.dll
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\bin\Debug\net6.0\AdministradorDeAlumnos.pdb
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\obj\Debug\net6.0\AdministradorDeAlumnos.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\obj\Debug\net6.0\AdministradorDeAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\obj\Debug\net6.0\AdministradorDeAlumnos.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\obj\Debug\net6.0\AdministradorDeAlumnos.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\obj\Debug\net6.0\AdministradorDeAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\obj\Debug\net6.0\AdministradorDeAlumnos.dll
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\obj\Debug\net6.0\refint\AdministradorDeAlumnos.dll
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\obj\Debug\net6.0\AdministradorDeAlumnos.pdb
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\obj\Debug\net6.0\AdministradorDeAlumnos.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\AdministradorDeAlumnos\obj\Debug\net6.0\ref\AdministradorDeAlumnos.dll
